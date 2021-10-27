@@ -3,7 +3,7 @@
 
 
 // Branding
-$branding_title = 'GoLCA Link Shortener';
+$branding_title = 'JovarkOS Link Shortener';
 $branding_style_url = 'stylesheet.css';
 
 

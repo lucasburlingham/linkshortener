@@ -63,7 +63,7 @@ file_put_contents('l/'. $slash . '/index.php', $content_php);
             <div class="row">
                 <div class="col-4"></div>
                 <div class="col-4">
-                    <label for="SLASH" class="h5 pt-1">Short link: (golca.org/yourlinkhere)</label>
+                    <label for="SLASH" class="h5 pt-1">Short link: (links.jovarkos.org/yourlinkhere)</label>
                     <input type="text" name="SLASH" class="form-control" placeholder="Under 50 characters..." required>
                     <br>
                     <div class="d-grid gap-2 col-6 mx-auto">
